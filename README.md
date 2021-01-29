@@ -50,10 +50,10 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/BintangP28/BOT-UWU.git
-> cd B0T-UWU
+> cd BOT-UWU
 > bash install.sh
 > node index.js
-```
+```w
 
 
 # FITUR
