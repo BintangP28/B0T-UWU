@@ -86,4 +86,4 @@ ket : ✅ : aktif
 - [`Instagram`](https://Instagram.com/bintangp_28)
 
 ## DONASI
-* [`WhatsApp`](https://wa.me/6283813304760)
+* [`Chat Sy`](https://wa.me/6283813304760)
