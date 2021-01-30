@@ -49,8 +49,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/BintangP28/BOT-UWU.git
-> cd BOT-UWU
+> git clone https://github.com/BintangP28/B0T-UWU.git
+> cd B0T-UWU
 > bash install.sh
 > node index.js
 ```
