@@ -31,8 +31,7 @@
 <p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
 </div>
 
-## BOT UWU<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
+## BOT UWU 
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
