@@ -81,8 +81,8 @@ ket : ✅ : aktif
 
 
 
-## THANKS TO
+## Sosmed
 * [`whatsapp`](https://wa.me/6283813304760)
 
 ## DONASI
-*
+* [`WhatsApp`](https://wa.me/6283813304760)
