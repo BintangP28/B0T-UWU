@@ -53,7 +53,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > cd BOT-UWU
 > bash install.sh
 > node index.js
-```w
+```
 
 
 # FITUR
