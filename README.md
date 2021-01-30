@@ -82,7 +82,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/BintangP28/Bot-Uwu)
+* [`whatsapp`](https://wa.me/6283813304760)
 
 ## DONASI
 *
