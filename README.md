@@ -31,7 +31,8 @@
 <p align="center"><a href="https://wa.me/6283813304760?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
 </div>
 
-## BOT UWU
+## BOT UWU<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -40,7 +41,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
-## CARA INSTALL
+## CARA INSTALL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
 # TERMUX
 ```bash
 > download termux
@@ -56,7 +58,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```
 
 
-# FITUR
+# FITUR <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+
 
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
@@ -81,9 +84,11 @@ ket : ✅ : aktif
 
 
 
-## Sosmed
+## SOSMED <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+
 - [`WhatsApp`](https://wa.me/6283813304760)
 - [`Instagram`](https://Instagram.com/bintangp_28)
 
-## DONASI
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+
 * [`Chat Saya`](https://wa.me/6283813304760)
