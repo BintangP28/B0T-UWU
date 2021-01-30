@@ -82,7 +82,8 @@ ket : ✅ : aktif
 
 
 ## Sosmed
-* [`whatsapp`](https://wa.me/6283813304760)
+- [`WhatsApp`](https://wa.me/6283813304760)
+- [`Instagram`](https://Instagram.com/bintangp_28)
 
 ## DONASI
 * [`WhatsApp`](https://wa.me/6283813304760)
